@@ -67,7 +67,7 @@ function App() {
               transition={{ type: "spring", damping: 10 }}
             >
               <div className="card-content">
-                <h2>Selamat Ulang Tahun Arista!!</h2>
+                <h2>Selamat Ulang Tahun Via!!</h2>
                 <p>ciee udah 19 tahun aja nih, ah tapi masih bocil belum 20 tahun. Yaa semoga sehat terus yak, tambah cantik, tambah pinter,
                   duitnya banyak. Semangat deh kuliahnya di UII mu itu. gitu doang sih hehe
                 </p>
